@@ -7,17 +7,17 @@ objectVersion = 55;
 objects = {
 
 /* Begin PBXBuildFile section */
-2F33CEEA2A8C75D9004E9F61 /* RayHistoryApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F33CEE12A8C75D9004E9F61 /* RayHistoryApp.swift */; };
-2F33CEEB2A8C75D9004E9F61 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F33CEE22A8C75D9004E9F61 /* ContentView.swift */; };
-2F33CEEC2A8C75D9004E9F61 /* HistoryFact.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F33CEE32A8C75D9004E9F61 /* HistoryFact.swift */; };
-2F33CEED2A8C75D9004E9F61 /* HistoryFactProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F33CEE42A8C75D9004E9F61 /* HistoryFactProvider.swift */; };
-2F33CEEE2A8C75D9004E9F61 /* HistoryLocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F33CEE52A8C75D9004E9F61 /* HistoryLocationManager.swift */; };
-2F33CEEF2A8C75D9004E9F61 /* HistoryFactCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F33CEE62A8C75D9004E9F61 /* HistoryFactCardView.swift */; };
-2F33CEF02A8C75D9004E9F61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F33CEE72A8C75D9004E9F61 /* Assets.xcassets */; };
-2F33CEF12A8C75D9004E9F61 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F33CEE82A8C75D9004E9F61 /* Preview Assets.xcassets */; };
-2F33CEF22A8C75D9004E9F61 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F33CEE92A8C75D9004E9F61 /* MapKit.framework */; };
-2F33CEF32A8C75D9004E9F61 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F33CEEA2A8C75D9004E9F61 /* CoreLocation.framework */; };
-2F33CF032A8C7605004E9F61 /* Contacts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F33CF022A8C7605004E9F61 /* Contacts.framework */; };
+6E1F5F3B2BC606CF00D58D7C /* RayHistoryApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F33CEE12A8C75D9004E9F61 /* RayHistoryApp.swift */; };
+6E1F5F3C2BC606CF00D58D7C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F33CEE22A8C75D9004E9F61 /* ContentView.swift */; };
+6E1F5F3D2BC606CF00D58D7C /* HistoryFact.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F33CEE32A8C75D9004E9F61 /* HistoryFact.swift */; };
+6E1F5F3E2BC606CF00D58D7C /* HistoryFactProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F33CEE42A8C75D9004E9F61 /* HistoryFactProvider.swift */; };
+6E1F5F3F2BC606CF00D58D7C /* HistoryLocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F33CEE52A8C75D9004E9F61 /* HistoryLocationManager.swift */; };
+6E1F5F402BC606CF00D58D7C /* HistoryFactCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F33CEE62A8C75D9004E9F61 /* HistoryFactCardView.swift */; };
+6E1F5F412BC606CF00D58D7C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F33CEE72A8C75D9004E9F61 /* Assets.xcassets */; };
+6E1F5F422BC606CF00D58D7C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F33CEE82A8C75D9004E9F61 /* Preview Assets.xcassets */; };
+6E1F5F432BC606CF00D58D7C /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F33CEE92A8C75D9004E9F61 /* MapKit.framework */; };
+6E1F5F442BC606CF00D58D7C /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F33CEEA2A8C75D9004E9F61 /* CoreLocation.framework */; };
+6E1F5F452BC606CF00D58D7C /* Contacts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F33CF022A8C7605004E9F61 /* Contacts.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,9 +41,9 @@ objects = {
 isa = PBXFrameworksBuildPhase;
 buildActionMask = 2147483647;
 files = (
-2F33CEF22A8C75D9004E9F61 /* MapKit.framework in Frameworks */,
-2F33CEF32A8C75D9004E9F61 /* CoreLocation.framework in Frameworks */,
-2F33CF032A8C7605004E9F61 /* Contacts.framework in Frameworks */,
+6E1F5F432BC606CF00D58D7C /* MapKit.framework in Frameworks */,
+6E1F5F442BC606CF00D58D7C /* CoreLocation.framework in Frameworks */,
+6E1F5F452BC606CF00D58D7C /* Contacts.framework in Frameworks */,
 );
 runOnlyForDeploymentPostprocessing = 0;
 };
@@ -193,8 +193,8 @@ targets = (
 isa = PBXResourcesBuildPhase;
 buildActionMask = 2147483647;
 files = (
-2F33CEF02A8C75D9004E9F61 /* Assets.xcassets in Resources */,
-2F33CEF12A8C75D9004E9F61 /* Preview Assets.xcassets in Resources */,
+6E1F5F412BC606CF00D58D7C /* Assets.xcassets in Resources */,
+6E1F5F422BC606CF00D58D7C /* Preview Assets.xcassets in Resources */,
 );
 runOnlyForDeploymentPostprocessing = 0;
 };
@@ -205,12 +205,12 @@ runOnlyForDeploymentPostprocessing = 0;
 isa = PBXSourcesBuildPhase;
 buildActionMask = 2147483647;
 files = (
-2F33CEEA2A8C75D9004E9F61 /* RayHistoryApp.swift in Sources */,
-2F33CEEB2A8C75D9004E9F61 /* ContentView.swift in Sources */,
-2F33CEEC2A8C75D9004E9F61 /* HistoryFact.swift in Sources */,
-2F33CEED2A8C75D9004E9F61 /* HistoryFactProvider.swift in Sources */,
-2F33CEEE2A8C75D9004E9F61 /* HistoryLocationManager.swift in Sources */,
-2F33CEEF2A8C75D9004E9F61 /* HistoryFactCardView.swift in Sources */,
+6E1F5F3B2BC606CF00D58D7C /* RayHistoryApp.swift in Sources */,
+6E1F5F3C2BC606CF00D58D7C /* ContentView.swift in Sources */,
+6E1F5F3D2BC606CF00D58D7C /* HistoryFact.swift in Sources */,
+6E1F5F3E2BC606CF00D58D7C /* HistoryFactProvider.swift in Sources */,
+6E1F5F3F2BC606CF00D58D7C /* HistoryLocationManager.swift in Sources */,
+6E1F5F402BC606CF00D58D7C /* HistoryFactCardView.swift in Sources */,
 );
 runOnlyForDeploymentPostprocessing = 0;
 };
